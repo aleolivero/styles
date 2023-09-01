@@ -1,4 +1,7 @@
-.my-bold-cell{
-    font-weight: bold;
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@300;400;500;600;700&display=swap');
 
+
+.cell-bold{
+    font-weight: bold;
+    font-family: 'Work Sans', sans-serif;
 }
